@@ -8,9 +8,9 @@ Full stack developer
 Busco proyectos nuevos 🎇
 
 <div style="display: flex; align-items: center;">
-  <img height="20" alt="SQL Server" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png">
-  <img height="20" alt="Flutter" src="https://miro.medium.com/v2/resize:fit:1400/1*w0u2TZpEp3WfKMrlL5jTSw.png">
-  <img height="20" alt="Flutter" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png">
+  <img height="30" alt="SQL Server" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png">
+  <img height="30" alt="Flutter" src="https://miro.medium.com/v2/resize:fit:1400/1*w0u2TZpEp3WfKMrlL5jTSw.png">
+  <img height="30" alt="Flutter" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png">
 </div>
 
 📫 Contacto:
