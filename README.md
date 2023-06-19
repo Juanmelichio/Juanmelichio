@@ -13,6 +13,11 @@ Busco proyectos nuevos 🎇
 
 <code><img height="20" alt="nodejs" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png"></code> 
 
+
+<div style="display: flex; align-items: center;">
+  <img height="20" alt="SQL Server" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png">
+  <img height="20" alt="Flutter" src="https://miro.medium.com/v2/resize:fit:1400/1*w0u2TZpEp3WfKMrlL5jTSw.png">
+</div>
 📫 Contacto:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-melichio-4466b3193/)
