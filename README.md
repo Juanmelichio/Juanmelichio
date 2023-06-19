@@ -14,7 +14,7 @@
 
 📫 Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juan-manuel-melichio-4466b3193/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-melichio-4466b3193/)
 [![Twitter](https://img.shields.io/badge/Twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JMelichio)
 [![E-Mail](https://img.shields.io/badge/Email-006aff?style=for-the-badge&logo=maildotru&logoColor=white&color=red)](mailto:juanmelichio@gmail.com)
 
