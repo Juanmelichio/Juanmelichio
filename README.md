@@ -3,7 +3,7 @@
 <a href="https://juanmelichio.github.io/" target="blank"><img align="right" src="https://cdn.dribbble.com/users/5720644/screenshots/13912339/media/cfc570f6891e4aef4ae3c5282a767847.gif" alt="portfolio" width="200"/></a> 
 ### Bienvenid@ a mi github
 
-Full stack developer
+Desarrollador full stack.
 
 Busco proyectos nuevos 🎇
 
